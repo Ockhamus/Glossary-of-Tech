@@ -22,7 +22,7 @@
 - 예시 : Notion, MS Office 365, Google Drive 등
 
 ### as-a-Service 비교
-> 주황 : 서비스 제공 영역
+> 주황 : 서비스 제공 영역  
 > 파랑 : 사용자의 관리 영역
 
 ![image](../assets/as-a-Service/01.png)
