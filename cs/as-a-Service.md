@@ -21,8 +21,11 @@
 - 사용자가 개발하지 않아도 응용 프로그램을 웹 브라우저 등을 통해 사용할 수 있도록 기능을 제공
 - 예시 : Notion, MS Office 365, Google Drive 등
 
-### As-a-Service 예시
+### as-a-Service 비교
+> 주황 : 서비스 제공 영역
+> 파랑 : 사용자의 관리 영역
 
+![image](../assets/as-a-Service/01.png)
 
 ### 참고사이트
 - [openmaru] IaaS, PaaS, SaaS – as a Service의 개념과 역할 [(🔗)](https://www.openmaru.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%85%90-%EC%97%AD%ED%95%A0/)
