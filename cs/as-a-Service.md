@@ -25,7 +25,7 @@
 > 주황 : 서비스 제공 영역  
 > 파랑 : 사용자의 관리 영역
 
-![image](../assets/as-a-Service/01.png)
+<img src="../assets/img/as-a-Service_01.png" width="70%">
 
 ### 참고사이트
 - [openmaru] IaaS, PaaS, SaaS – as a Service의 개념과 역할 [(🔗)](https://www.openmaru.io/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%85%90-%EC%97%AD%ED%95%A0/)
